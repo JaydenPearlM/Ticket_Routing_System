@@ -8,5 +8,6 @@ and it routes the ticket to the correct department such as "Networking Solutions
 SMOTE was also used in this project to help balance out the imbalanced Data.
 Trained the Niave Bayes machine Learning model.  The model was picked because it is beginner friendly
 and a Text Classifier.
+Also, what was used was FastAPI for testing predictions.
 
-The Accuracy for this projects output was 74% which was done in three weeks.
+
